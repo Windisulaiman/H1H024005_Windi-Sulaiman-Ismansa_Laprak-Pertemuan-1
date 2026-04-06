@@ -1,7 +1,7 @@
 Nama: Windi Sulaiman Ismansa
 NIM: H2H024005
-Shift Awal: 
-Shift Akhir:
+Shift Awal: B
+Shift Akhir: A
 
 1.5 Pertanyaan Praktikum
 1. Pada kondisi apa program masuk ke blok if?
